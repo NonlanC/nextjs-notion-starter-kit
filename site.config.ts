@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Nonlan',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '❤ Nonlan self web site ❤',
 
   // social usernames (optional)
   twitter: 'owoNonlan',
